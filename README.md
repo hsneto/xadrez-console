@@ -1,2 +1,4 @@
-# xadrez-console
+# Xadrez Console
+
+Project from course: [C# COMPLETO Programação Orientada a Objetos + Projetos ](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)
  
